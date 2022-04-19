@@ -1,0 +1,20 @@
+.div1{
+    top: 40%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+}
+.head{
+  background: url('https://b.zmtcdn.com/mx-onboarding-hero87f77501659a5656cad54d98e72bf0d81627911821.webp') no-repeat center ;
+background-size: cover;
+padding: 10rem 0 10rem;
+}
+.text{
+  top: -33px;
+}
+.text1{
+  top: -59px;
+}
+.input-group{
+  height: 60px;
+}
+
